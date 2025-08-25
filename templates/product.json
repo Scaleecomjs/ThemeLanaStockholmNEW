@@ -257,8 +257,8 @@
         "question_WhPV7n": {
           "type": "question",
           "settings": {
-            "title": "Are There Exceptions to the Return Policy?",
-            "text": "<p>Yes, the following exceptions apply: Partial refunds may be issued for items that:<br/></p><ul><li>Show signs of use.</li><li>Are not in their original condition</li><li>Are damaged or missing parts (not caused by us).</li><li>Are returned more than 30 days after delivery<br/></li></ul><p>For complete details, refer to our <a href=\"/pages/return-policy\" title=\"Return Policy\">Return Policy.</a></p>"
+            "title": "Finns det undantag från returpolicyn?",
+            "text": "<p>Ja, följande undantag gäller: Delåterbetalningar kan utfärdas för varor som:</p><ul><li>Visar tecken på användning.<br/></li><li>Inte är i sitt ursprungliga skick.<br/></li><li>Är skadade eller saknar delar (inte orsakade av oss).<br/></li><li>Returneras mer än 30 dagar efter leverans.<br/></li></ul><p>För fullständiga detaljer, se vår <strong>returpolicy</strong>.</p>"
           }
         }
       },
