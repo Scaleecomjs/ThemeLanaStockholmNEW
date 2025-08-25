@@ -250,8 +250,8 @@
         "question_Qibzre": {
           "type": "question",
           "settings": {
-            "title": "How long does shipping take?",
-            "text": "<p>Orders are typically processed within <strong>3 business days </strong>after being placed.<br/><br/></p>"
+            "title": "Hur lång tid tar leveransen?",
+            "text": "<p>Beställningar behandlas normalt inom 3 arbetsdagar efter att de har gjorts.<br/></p>"
           }
         },
         "question_WhPV7n": {
