@@ -15,7 +15,7 @@
         "custom_YHkfGw": {
           "type": "custom",
           "settings": {
-            "code": "<div class=\"product-block\">\n                      <div style=\"\n    display: flex; \n    align-items: center; \n    background-color: #F7F7F7; \n    border-radius: 20px; \n    padding: 6px 12px; \n    margin: -15px 0; \n    font-size: 14px; \n    font-weight: bold; \n    color: #222; \n    max-width: fit-content; \n    border: 1px solid #ddd;\n\">\n    <div style=\"\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        width: 24px;\n        height: 24px;\n        margin-right: 8px;\n        border-radius: 50%;\n        border: 1px solid #000;\n        font-size: 12px;\n        font-weight: bold;\n    \">\n        ♥\n    </div>\n    Designed by Lana\n</div>\n                    </div>"
+            "code": "<div class=\"product-block\">\n  <div style=\"\n    display: flex; \n    align-items: center; \n    background-color: #F7F7F7; \n    border-radius: 20px; \n    padding: 6px 12px; \n    margin: -15px 0; \n    font-size: 14px; \n    font-weight: bold; \n    color: #222; \n    max-width: fit-content; \n    border: 1px solid #ddd;\n  \">\n    <div style=\"\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        width: 24px;\n        height: 24px;\n        margin-right: 8px;\n        border-radius: 50%;\n        border: 1px solid #000;\n        font-size: 12px;\n        font-weight: bold;\n    \">\n        ♥\n    </div>\n    Designad av Lana\n  </div>\n</div>"
           }
         },
         "price_bPRXd9": {
@@ -100,24 +100,24 @@
         "tab_RC86Ae": {
           "type": "tab",
           "settings": {
-            "title": "Free shipping",
-            "content": "<p>We are offering free shipping within the United States <strong>for all orders.</strong></p><p><strong>We ship our packages with a Track & Trace code</strong> so you can always monitor your order.</p><p>You will receive the Track & Trace code via email within 24-72 hours after placing your order.</p>",
+            "title": "Fri frakt",
+            "content": "<p>Vi erbjuder fri frakt inom Sverige på alla beställningar.</p><p><strong>Vi skickar våra paket med en spårningskod (Track & Trace) så att du alltid kan följa din beställning.</strong></p><p>Du kommer att få din spårningskod via e-post inom 24–72 timmar efter att du har lagt din beställning.</p>",
             "page": ""
           }
         },
         "tab_cJ9KzY": {
           "type": "tab",
           "settings": {
-            "title": "Shipping information",
-            "content": "<p>If our product does not meet your expectations, you can return it within <strong>30 days upon receipt</strong>.</p><p>Before returning the goods, please contact our customer service at <a href=\"mailto:info@lana-newyork.com\" title=\"mailto:info@lana-newyork.com\"><strong>info@lana-newyork.com</strong></a>  and let us know the reason for the return so we can process your request correctly.</p><p>Please review our <a href=\"/pages/return-policy\" title=\"Return Policy\">return policy</a> for more information!</p>",
+            "title": "Fraktinformation",
+            "content": "<p>Om vår produkt inte motsvarar dina förväntningar kan du returnera den inom <strong>30 dagar efter mottagandet.</strong></p><p>Innan du returnerar varan, vänligen kontakta vår kundtjänst på <a><strong>info@lana-stockholm.com</strong></a> och meddela anledningen till returen så att vi kan hantera ditt ärende på rätt sätt.</p><p>Läs gärna vår returpolicy för mer information!</p>",
             "page": ""
           }
         },
         "tab_gdXFF4": {
           "type": "tab",
           "settings": {
-            "title": "24/7 Customer Service",
-            "content": "<p><strong>Our customer service is available 24/7 to answer all your questions and comments.</strong> Whether you need advice on a product or help with an order, we are here to support you.</p><p>Don’t hesitate to contact us; we’re happy to help!</p><p>Please contact us at <a href=\"mailto:info@lana-newyork.com\" title=\"mailto:info@lana-newyork.com\"><strong>info@lana-newyork.com</strong></a></p>",
+            "title": "24/7 Kundtjänst",
+            "content": "<p><strong>Vår kundtjänst är tillgänglig dygnet runt, alla dagar i veckan, för att svara på dina frågor och funderingar</strong>. Oavsett om du behöver råd om en produkt eller hjälp med en beställning finns vi här för att stötta dig.</p><p>Tveka inte att kontakta oss – vi hjälper dig gärna!</p><p>Du når oss på <a><strong>info@lana-stockholm.com</strong></a></p>",
             "page": ""
           }
         },
