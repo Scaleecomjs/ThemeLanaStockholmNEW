@@ -244,7 +244,7 @@
           "type": "question",
           "settings": {
             "title": "Jag har ett problem med min beställning. Hur kan jag kontakta er?",
-            "text": "<p>If you experience any issues or have questions, visit our <a href=\"/pages/contact\" title=\"Contact\">Contact Page</a> to connect with our support team. We’re here to assist you promptly.</p>"
+            "text": "<p>Om du upplever några problem eller har frågor, besök vår <a href=\"/pages/contact\" title=\"Contact\"><strong>Kontaktsida</strong></a> för att komma i kontakt med vårt supportteam. Vi finns här för att hjälpa dig snabbt.</p>"
           }
         },
         "question_Qibzre": {
