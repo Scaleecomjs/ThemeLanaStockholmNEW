@@ -236,14 +236,14 @@
         "question_QEpDgC": {
           "type": "question",
           "settings": {
-            "title": "How Can I Track My Order?",
-            "text": "<p>Once your order is confirmed, you will receive an email with your order number. To track your order, simply visit our <a href=\"https://lana-newyork.com/apps/parcelpanel\" title=\"https://lana-newyork.com/apps/parcelpanel\">Order Tracking</a> page and enter your order number or email address.<br/><br/><br/><br/></p>"
+            "title": "Hur kan jag spåra min beställning?",
+            "text": "<p>När din beställning har bekräftats får du ett e-postmeddelande med ditt ordernummer. För att spåra din beställning, besök helt enkelt vår sida för <a href=\"/pages/contact\" title=\"Contact\"><strong>Orderstatus</strong></a> och ange ditt ordernummer eller din e-postadress.<br/><br/></p>"
           }
         },
         "question_hgztam": {
           "type": "question",
           "settings": {
-            "title": "I Have an Issue With My Order. How Can I Contact You?",
+            "title": "Jag har ett problem med min beställning. Hur kan jag kontakta er?",
             "text": "<p>If you experience any issues or have questions, visit our <a href=\"/pages/contact\" title=\"Contact\">Contact Page</a> to connect with our support team. We’re here to assist you promptly.</p>"
           }
         },
@@ -269,7 +269,7 @@
         "question_WhPV7n"
       ],
       "settings": {
-        "title": "Frequently Asked Questions"
+        "title": "Vanliga frågor"
       }
     }
   },
