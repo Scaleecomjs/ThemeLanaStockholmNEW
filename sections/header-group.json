@@ -54,16 +54,16 @@
         "announcement_gkbAjW": {
           "type": "announcement",
           "settings": {
-            "text": "2 VAROR 10% RABATT | 3 VAROR 15% RABATT | 4+ VAROR 20% RABATT",
-            "link_text": "",
+            "text": "30-DAY MONEY BACK GUARANTEE",
+            "link_text": "HASSLE FREE RETURNS",
             "link": ""
           }
         },
         "announcement_qAcmPY": {
           "type": "announcement",
           "settings": {
-            "text": "Fri frakt på alla beställningar",
-            "link_text": "",
+            "text": "RETIREMENT SALE",
+            "link_text": "ENDS TONIGHT",
             "link": ""
           }
         }
