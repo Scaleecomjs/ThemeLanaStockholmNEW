@@ -96,7 +96,7 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "product_recommendations_heading": "You might also like this",
+        "product_recommendations_heading": "COMBINE AND GET UP TO 15% EXTRA OFF",
         "related_count": 5,
         "products_per_row": 5
       }
