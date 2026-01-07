@@ -21,10 +21,12 @@
             "subheading": "Shop the Retirement Sale",
             "link": "shopify://collections/all",
             "link_text": "",
-            "link_2": "shopify://collections/vrouwen",
+            "link_2": "shopify://collections",
             "link_text_2": "Our Collection",
             "color_accent": "#00b67a",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/xKqgnY8sThOuWBq9tY-2cA.jpg",
+            "image_mobile": "shopify://shop_images/xKqgnY8sThOuWBq9tY-2cA.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
