@@ -187,6 +187,38 @@
         "products_per_row": 5
       }
     },
+    "advanced_content_ijdVjL": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_hKGdRF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_7_jan_2026_21_05_29.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_YkjqC8": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>30 DAY MONEY-BACK GUARANTEE</h2><p>At Amelia & Rose Charleston, you can shop with peace of mind thanks to our 30 day money-back guarantee. Simply return your items within 30 days</p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_hKGdRF",
+        "liquid_YkjqC8"
+      ],
+      "name": "t:sections.advanced-content.presets.custom_content.name",
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
     "sub": {
       "type": "product-full-width",
       "disabled": true,
@@ -211,6 +243,7 @@
     "main",
     "testimonials_nPEYXh",
     "product-recommendations",
+    "advanced_content_ijdVjL",
     "sub",
     "recently-viewed",
     "collection-return"
