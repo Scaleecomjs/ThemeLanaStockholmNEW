@@ -25,8 +25,8 @@
             "link_text_2": "Our Collection",
             "color_accent": "#00b67a",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/xKqgnY8sThOuWBq9tY-2cA.jpg",
-            "image_mobile": "shopify://shop_images/xKqgnY8sThOuWBq9tY-2cA.jpg",
+            "image": "shopify://shop_images/ChatGPT_Image_Jan_7_2026_07_04_35_PM.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_Jan_7_2026_07_04_35_PM.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -36,7 +36,7 @@
         "slideshow-0"
       ],
       "settings": {
-        "section_height": "550px",
+        "section_height": "100vh",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
