@@ -61,7 +61,7 @@
         "liquid_hqALwa": {
           "type": "liquid",
           "settings": {
-            "code": "<div class=\"rte collection__description\">\n    <h3 style=\"text-align: center;\"><strong>A Farewell From Anna, A New Beginning With Clara</strong></h3>\n    \n    <p style=\"text-align: center;\">\n        After many beautiful years, Anna is retiring and passing the dream on to Clara.  \n        Celebrate this special moment with up to 80% off for a limited time.\n    </p>\n</div>",
+            "code": "<div class=\"rte collection__description\">\n    <h3 style=\"text-align: center;\"><strong>A Farewell From Anna, A New Beginning With Clara</strong></h3>\n    \n    <p style=\"text-align: center;\">\n        After many beautiful years, Anna is retiring and passing the dream on to Clara.  \n        Celebrate this special moment with up to <b>80%</b> off for a limited time.\n    </p>\n</div>",
             "width": "100%",
             "alignment": "center"
           }
