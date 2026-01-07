@@ -31,12 +31,6 @@
             "color_swatches": true
           }
         },
-        "custom_ajEEwf": {
-          "type": "custom",
-          "settings": {
-            "code": "<div class=\"product-block selluxe-sales-point selluxe_sales_point_kVd34U\">\n  <style>\n    .selluxe_sales_point_kVd34U {\n      display: flex;\n      align-items: center;\n      gap: 10px;\n      width: 100%;\n      padding: 0px 0px;\n      margin: 0px 0 25px;\n    }\n    .selluxe_sales_point_kVd34U .icon {\n      width: 24px;\n      height: 24px;\n      position: relative;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      color: #ea0404;\n    }\n    .selluxe_sales_point_kVd34U .icon .dot-icon {\n      position: absolute;\n    }\n    .selluxe_sales_point_kVd34U .icon .dot-icon.dot-animated {\n      animation: pulse 2s infinite;\n    }\n    .selluxe_sales_point_kVd34U .text span {\n      font-size: 16px;\n      color: #000000;\n      line-height: 150%;\n    }\n    @keyframes pulse {\n      from {\n        transform: scale(1);\n        opacity: 1;\n      } \n      to {\n        transform: scale(2.4);\n        opacity: 0;\n      }\n    }\n  </style>\n\n  <div class=\"icon\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"10\" height=\"10\" viewBox=\"0 0 24 24\" fill=\"#ea0404\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"dot-icon dot-animated\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle></svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"10\" height=\"10\" viewBox=\"0 0 24 24\" fill=\"#ea0404\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"dot-icon\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle></svg>\n  </div>\n  \n  <div class=\"text\">\n    <span>Endast 5 i lager</span>\n  </div>\n\n  <script>\n    const deliveryDays = 1; \n    const currentDate = new Date();\n    currentDate.setDate(currentDate.getDate() + deliveryDays);\n\n    const options = { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' };\n    const formattedDate = currentDate.toLocaleDateString('sv-SE', options);\n\n    const textEl = document.querySelector('.selluxe_sales_point_kVd34U .text span');\n    if (textEl.innerHTML.includes('[date]')) {\n      textEl.innerHTML = textEl.innerHTML.replace('[date]', formattedDate);\n    }\n  </script>\n</div>"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -132,7 +126,6 @@
         "custom_YHkfGw",
         "price_bPRXd9",
         "variant_picker",
-        "custom_ajEEwf",
         "buy_buttons",
         "custom_4Vjtr8",
         "custom_aFLhAP",
@@ -193,7 +186,6 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image": "shopify://shop_images/image_18.webp",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
