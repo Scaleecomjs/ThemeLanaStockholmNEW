@@ -101,48 +101,6 @@
         "products_per_row": 5
       }
     },
-    "text_and_image_zaGGLW": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Ett bitterljuvt farväl",
-        "text": "<p>I flera år har jag noggrant valt ut modeplagg som stärker kvinnor – tidlösa, stilfulla och designade med kärlek. Men nu är det dags för ett nytt kapitel.</p><p>Detta är din sista chans att shoppa dina favoritplagg till exklusiva rabatter. När de väl är slut, är de borta för alltid. Missa inte möjligheten att äga en del av Lanas stil innan den försvinner för gott.</p><p>Med kärlek,<br/><br/>Lana</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_bJVJD6": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Pengarna tillbaka-garanti",
-        "text": "<p>Vi älskar våra produkter och vi är säkra på att du kommer att älska dem lika mycket som vi gör! Därför erbjuder vi en riskfri 30-dagars pengarna-tillbaka-garanti. Om du inte är nöjd med vår produkt ger vi dig pengarna tillbaka.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "sub": {
       "type": "product-full-width",
       "disabled": true,
@@ -162,57 +120,78 @@
       "disabled": true,
       "settings": {}
     },
-    "faq_4TPMB3": {
-      "type": "faq",
+    "testimonials_nPEYXh": {
+      "type": "testimonials",
       "blocks": {
-        "question_QEpDgC": {
-          "type": "question",
+        "testimonial_UDV8md": {
+          "type": "testimonial",
           "settings": {
-            "title": "Hur kan jag spåra min beställning?",
-            "text": "<p>När din beställning har bekräftats får du ett e-postmeddelande med ditt ordernummer. För att spåra din beställning, besök helt enkelt vår sida för <a href=\"/pages/contact\" title=\"Contact\"><strong>Orderstatus</strong></a> och ange ditt ordernummer eller din e-postadress.<br/><br/></p>"
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
           }
         },
-        "question_hgztam": {
-          "type": "question",
+        "testimonial_gdmD8z": {
+          "type": "testimonial",
           "settings": {
-            "title": "Jag har ett problem med min beställning. Hur kan jag kontakta er?",
-            "text": "<p>Om du upplever några problem eller har frågor, besök vår <a href=\"/pages/contact\" title=\"Contact\"><strong>Kontaktsida</strong></a> för att komma i kontakt med vårt supportteam. Vi finns här för att hjälpa dig snabbt.</p>"
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
           }
         },
-        "question_Qibzre": {
-          "type": "question",
+        "testimonial_ggb9dg": {
+          "type": "testimonial",
           "settings": {
-            "title": "Hur lång tid tar leveransen?",
-            "text": "<p>Beställningar behandlas normalt inom 3 arbetsdagar efter att de har gjorts.<br/></p>"
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
           }
         },
-        "question_WhPV7n": {
-          "type": "question",
+        "testimonial_q6P9ne": {
+          "type": "testimonial",
           "settings": {
-            "title": "Finns det undantag från returpolicyn?",
-            "text": "<p>Ja, följande undantag gäller: Delåterbetalningar kan utfärdas för varor som:</p><ul><li>Visar tecken på användning.<br/></li><li>Inte är i sitt ursprungliga skick.<br/></li><li>Är skadade eller saknar delar (inte orsakade av oss).<br/></li><li>Returneras mer än 30 dagar efter leverans.<br/></li></ul><p>För fullständiga detaljer, se vår <strong>returpolicy</strong>.</p>"
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "testimonial_3EyFc8": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
           }
         }
       },
       "block_order": [
-        "question_QEpDgC",
-        "question_hgztam",
-        "question_Qibzre",
-        "question_WhPV7n"
+        "testimonial_UDV8md",
+        "testimonial_gdmD8z",
+        "testimonial_ggb9dg",
+        "testimonial_q6P9ne",
+        "testimonial_3EyFc8"
       ],
+      "name": "t:sections.testimonials.presets.testimonials.name",
       "settings": {
-        "title": "Vanliga frågor"
+        "title": "OUR CUSTOMERS TELL IT BETTER THAN WE DO!",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
       }
     }
   },
   "order": [
     "main",
+    "testimonials_nPEYXh",
     "product-recommendations",
-    "text_and_image_zaGGLW",
-    "text_and_image_bJVJD6",
     "sub",
     "recently-viewed",
-    "collection-return",
-    "faq_4TPMB3"
+    "collection-return"
   ]
 }
