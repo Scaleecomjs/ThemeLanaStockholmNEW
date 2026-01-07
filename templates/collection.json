@@ -61,7 +61,7 @@
         "liquid_hqALwa": {
           "type": "liquid",
           "settings": {
-            "code": "<div class=\"rte collection__description\">\n    <h3 style=\"text-align: center;\"><strong>A Heartfelt Goodbye...</strong></h3>\n    <p style=\"text-align: center;\">After a challenging time, we’re heartbroken to announce that we must close our doors. Despite the obstacles, we’ve been grateful for your incredible support along the way. While this chapter is coming to an end, we want to express our deepest thanks for being part of our journey.</p>\n    \n    <p style=\"text-align: center;\">To show our appreciation, we’re offering special discounts as a final thank-you.</p>\n\n    <p style=\"text-align: center;\">\n        <strong>10% EXTRA ON 2 ITEMS<br>\n        15% EXTRA ON 3 ITEMS<br>\n        20% EXTRA ON 4 ITEMS<br>\n        25% EXTRA ON 5+ ITEMS</strong>\n    </p>\n\n    <p style=\"text-align: center;\">*Discounts are automatically applied at checkout and can be combined with items from other collections in our closing sale.</p>\n</div>",
+            "code": "<div class=\"rte collection__description\">\n    <h3 style=\"text-align: center;\"><strong>A Farewell From Anna, A New Beginning With Clara</strong></h3>\n    \n    <p style=\"text-align: center;\">\n        After many beautiful years, Anna is retiring and passing the dream on to Clara.  \n        Celebrate this special moment with up to 80% off for a limited time.\n    </p>\n</div>",
             "width": "100%",
             "alignment": "center"
           }
