@@ -1,1 +1,121 @@
-{"sections":{"ss_announcement_bar_slider_WCxRHC":{"type":"ss-announcement-bar-slider","blocks":{"slide_87mYbY":{"type":"slide","settings":{"text":"<p><strong>Buy 2 items and get an extra 10% off!<\/strong><\/p>"}},"slide_xHTKqt":{"type":"slide","settings":{"text":"<p><strong>Buy 3 items and get an extra 15% off!<\/strong><\/p>"}},"slide_wFhEyD":{"type":"slide","settings":{"text":"<p><strong>Buy 4 items and get an extra 20% off!<\/strong><\/p>"}},"slide_yppejP":{"type":"slide","settings":{"text":"<p><strong>Buy 5 items and get an extra 25% off!<\/strong><\/p>"}}},"block_order":["slide_87mYbY","slide_xHTKqt","slide_wFhEyD","slide_yppejP"],"settings":{"insert_css_class_target":"","slider_view":1,"slider_view_mobile":1,"slider_gap":0,"slider_gap_mobile":0,"autoplay":true,"autoplay_sec":3,"slide_border_thickness":1,"text_custom":false,"text_font":"josefin_sans_n4","text_size":12,"text_size_mobile":12,"text_height":130,"icon_size":50,"icon_size_mobile":50,"icon_margin_right":10,"arrow_size":50,"arrow_size_mobile":36,"arrow_icon_size":16,"arrow_icon_size_mobile":14,"arrow_border_thickness":0,"arrow_show_desktop":false,"arrow_show_mobile":false,"arrow_color":"#000000","arrow_hover_color":"#000000","arrow_bg_color":"","arrow_bg_hover_color":"","arrow_border_color":"#000000","arrow_border_hover_color":"#000000","slide_border_color":"#1a1b18","text_color":"#1a1b18","background_color":"#ffffff","background_gradient":"","border_color":"#000000","margin_top":0,"margin_bottom":0,"padding_top":16,"padding_bottom":16,"padding_horizontal":0,"padding_horizontal_mobile":0,"full_width":true,"content_width":120,"border_thickness":0}},"collection-header":{"type":"collection-header","settings":{"enable":false,"collection_image_enable":false,"parallax":true,"parallax_direction":"top"}},"slideshow_CaKP7C":{"type":"slideshow","blocks":{"image_jPQzYc":{"type":"image","settings":{"top_subheading":"","title":"","title_size":80,"subheading":"","link":"","link_text":"","link_2":"","link_text_2":"","color_accent":"rgba(0,0,0,0)","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/sale-Banner-desktop_3.webp","image_mobile":"shopify:\/\/shop_images\/WhatsApp_Image_2025-04-18_at_10.31.59.webp","parallax_direction":"top","overlay_opacity":0}}},"block_order":["image_jPQzYc"],"name":"t:sections.slideshow.presets.hero_optional_slideshow.name","settings":{"section_height":"natural","mobile_height":"400px","parallax":false,"style":"bars","autoplay":true,"autoplay_speed":5,"lazyload_images":true}},"advanced_content_kx4T3R":{"type":"advanced-content","blocks":{"liquid_hqALwa":{"type":"liquid","settings":{"code":"<div class=\"rte collection__description\">\n    <h3 style=\"text-align: center;\"><strong>A Heartfelt Goodbye...<\/strong><\/h3>\n    <p style=\"text-align: center;\">After a challenging time, we’re heartbroken to announce that we must close our doors. Despite the obstacles, we’ve been grateful for your incredible support along the way. While this chapter is coming to an end, we want to express our deepest thanks for being part of our journey.<\/p>\n    \n    <p style=\"text-align: center;\">To show our appreciation, we’re offering special discounts as a final thank-you.<\/p>\n\n    <p style=\"text-align: center;\">\n        <strong>10% EXTRA ON 2 ITEMS<br>\n        15% EXTRA ON 3 ITEMS<br>\n        20% EXTRA ON 4 ITEMS<br>\n        25% EXTRA ON 5+ ITEMS<\/strong>\n    <\/p>\n\n    <p style=\"text-align: center;\">*Discounts are automatically applied at checkout and can be combined with items from other collections in our closing sale.<\/p>\n<\/div>","width":"100%","alignment":"center"}}},"block_order":["liquid_hqALwa"],"settings":{"full_width":false,"space_around":true,"lazyload_images":true}},"main-collection":{"type":"main-collection","blocks":{"collection_description":{"type":"collection_description","settings":{}},"subcollections":{"type":"subcollections","settings":{"subcollections_per_row":5}},"product_grid":{"type":"product_grid","settings":{"enable_collection_count":true,"per_row":4,"rows_per_page":7,"mobile_flush_grid":false}}},"block_order":["collection_description","subcollections","product_grid"],"settings":{"enable_sidebar":false,"collapsed":true,"filter_style":"sidebar","enable_color_swatches":false,"enable_swatch_labels":true,"enable_sort":true}}},"order":["ss_announcement_bar_slider_WCxRHC","collection-header","slideshow_CaKP7C","advanced_content_kx4T3R","main-collection"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": false,
+        "collection_image_enable": false,
+        "parallax": true,
+        "parallax_direction": "top"
+      }
+    },
+    "slideshow_CaKP7C": {
+      "type": "slideshow",
+      "blocks": {
+        "image_jPQzYc": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_jPQzYc"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "400px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_kx4T3R": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_hqALwa": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div class=\"rte collection__description\">\n    <h3 style=\"text-align: center;\"><strong>A Heartfelt Goodbye...</strong></h3>\n    <p style=\"text-align: center;\">After a challenging time, we’re heartbroken to announce that we must close our doors. Despite the obstacles, we’ve been grateful for your incredible support along the way. While this chapter is coming to an end, we want to express our deepest thanks for being part of our journey.</p>\n    \n    <p style=\"text-align: center;\">To show our appreciation, we’re offering special discounts as a final thank-you.</p>\n\n    <p style=\"text-align: center;\">\n        <strong>10% EXTRA ON 2 ITEMS<br>\n        15% EXTRA ON 3 ITEMS<br>\n        20% EXTRA ON 4 ITEMS<br>\n        25% EXTRA ON 5+ ITEMS</strong>\n    </p>\n\n    <p style=\"text-align: center;\">*Discounts are automatically applied at checkout and can be combined with items from other collections in our closing sale.</p>\n</div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_hqALwa"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {}
+        },
+        "subcollections": {
+          "type": "subcollections",
+          "settings": {
+            "subcollections_per_row": 5
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 7,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "subcollections",
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "collapsed": true,
+        "filter_style": "sidebar",
+        "enable_color_swatches": false,
+        "enable_swatch_labels": true,
+        "enable_sort": true
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "slideshow_CaKP7C",
+    "advanced_content_kx4T3R",
+    "main-collection"
+  ]
+}
