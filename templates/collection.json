@@ -34,6 +34,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/ChatGPT_Image_Jan_7_2026_07_04_35_PM.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_Jan_7_2026_07_04_35_PM.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -44,8 +46,8 @@
       ],
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
-        "section_height": "natural",
-        "mobile_height": "400px",
+        "section_height": "100vh",
+        "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
         "autoplay": true,
