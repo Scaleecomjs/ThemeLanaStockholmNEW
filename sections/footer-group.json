@@ -155,9 +155,9 @@
         "custom_3d8Tfa": {
           "type": "custom",
           "settings": {
-            "show_footer_title": true,
+            "show_footer_title": false,
             "title": "Customer service",
-            "text": "<p>7 days a week available:</p><p><strong>Monday - Friday : 08:00 - 20:00</strong></p><p><strong>Saturday - Sunday : 08:00 - 16:00</strong></p><p>We always aim to respond within 24 hours.</p><p><strong>📧 info@lana-newyork.com</strong></p>",
+            "text": "<p>7 days a week available:</p><p><strong>Monday - Friday : 08:00 - 20:00</strong></p><p><strong>Saturday - Sunday : 08:00 - 16:00</strong></p><p>We always aim to respond within 24 hours.</p><p><strong>📧 info@annaclara-charleston.com</strong></p>",
             "container_width": 33
           }
         },
