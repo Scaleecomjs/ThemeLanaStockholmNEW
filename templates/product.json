@@ -202,7 +202,7 @@
         "liquid_YkjqC8": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>30 DAY MONEY-BACK GUARANTEE</h2><p>At Amelia & Rose Charleston, you can shop with peace of mind thanks to our 30 day money-back guarantee. Simply return your items within 30 days</p>",
+            "code": "<h2 style=\"text-align:center;\">30 DAY MONEY-BACK GUARANTEE</h2><p style=\"text-align:center;\">At Amelia & Rose Charleston, you can shop with peace of mind thanks to our 30 day money-back guarantee. Simply return your items within 30 days</p>",
             "width": "50%",
             "alignment": "center"
           }
